@@ -19,4 +19,3 @@ my_secret = os.environ['TOKEN']
 
 keep_alive() 
 client.run(os.getenv("TOKEN"))
-test
